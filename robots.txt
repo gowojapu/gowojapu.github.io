@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://gowojapu.github.io/sitemap/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/ARI/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/Qew/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/mbv/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/kNW/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/oGX/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/CRQ/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/CEX/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/Ikx/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/wDy/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/VKr/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/ekq/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/dLw/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/oBl/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/Dte/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/Dsy/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/Bwv/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/iCS/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/hVR/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/oWA/sitemap_index.gowojapu
+Sitemap: https://gowojapu.github.io/Ksf/sitemap_index.gowojapu
